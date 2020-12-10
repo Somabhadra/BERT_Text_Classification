@@ -1,4 +1,4 @@
-# BERT_Text_Classification
+# Text classification using Tensorflow-hub(Bert)
 Text classification using BERT(TF-hub).
 tensorflow-hub
 tensorflow-gpu
